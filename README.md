@@ -1,2 +1,5 @@
 # Front-end_web_development
-Front-End Web Development
+* Laravel 9
+- Jetstream
+- Livewire
+- PHP 8
